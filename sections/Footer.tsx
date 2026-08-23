@@ -90,7 +90,7 @@ export default function Footer() {
         </Link>
         <div className="flex flex-1 justify-end">
           <DashedLink className="w-fit cursor-default">
-            Website cloned by Yash Ostwal
+            Website cloned by krish koli
           </DashedLink>
         </div>
       </div>
